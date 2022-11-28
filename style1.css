@@ -1,0 +1,38 @@
+body{
+    background-color: aliceblue;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+form{
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+.contact-form{ 
+    max-width: 100px;
+    margin: auto;
+}
+
+.input-field,select
+{
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 10px;
+    border: 1px solid #777;
+    border-radius: 10px;
+    outline: none;
+    align-content: center;
+
+}
+.textarea{
+    height: 150px;
+    padding: 10px;
+}
+form{
+    margin: auto;
+}
